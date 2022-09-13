@@ -57,5 +57,11 @@ Evita Bad Smells e débitos tecnicos.
 ##### Os critérios de avaliação foram todos seguidos durante o desenvolvimento.
 ##### Projeto criada pensando em facilitar a manutenção caso seja necessário.
 
+### Como jogar?
 
+##### 1 - Ao rodar o projeto o usuário vai ter as opções de jogada :B (BAIXO) - C (CIMA) - E (ESQUERDA) - D (DIREITA) - S (SAIR).
+##### 2 - A posição do usuário é a string em branco.
+##### 3 - Utilizar letras minúsculas.
+
+### Desenvolvedor: Mateus Lopes Gomes - @mateuslgomes
 
