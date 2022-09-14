@@ -49,6 +49,14 @@ Evita Bad Smells e débitos tecnicos.
 ### Vitória do usuário
 ![image](https://user-images.githubusercontent.com/97681752/189999104-9ed35c3a-77d1-4eb3-b997-19f7c238ecf0.png)
 
+# Executando o jogo
+
+##### 1 - Entre por um terminal na pasta game.
+##### 2 - Execute o comando ```java -jar Puzzle.jar```
+#### Resultado: 
+![image](https://user-images.githubusercontent.com/97681752/190233544-b024e2b6-ffe4-4f3a-abd0-bf3430219b33.png)
+
+
 # Sobre
 
 ### Desenvolvimento:
